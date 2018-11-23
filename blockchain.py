@@ -15,6 +15,8 @@ block = {
 }
 '''
 
+'''Not my code . . .'''
+
 import hashlib
 import json
 from textwrap import dedent
